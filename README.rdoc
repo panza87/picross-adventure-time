@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Picross adventure time.
 
-Things you may want to cover:
+Created using Javascript and Ruby on Rails.
 
-* Ruby version
+Sign Up, solve some puzzles, create some of your own!
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+https://picross-adventure-time.herokuapp.com/
